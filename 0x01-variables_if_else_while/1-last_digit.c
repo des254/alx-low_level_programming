@@ -20,11 +20,11 @@ int main(void)
 	}
 	else if (m == 0)
 	{
-		printf(" is 0\n");
+		printf(" and is 0\n");
 	}
 	else
 	{
-		printf(" is less than 6 and not 0\n");
+		printf(" and is less than 6 and not 0\n");
 	}
 	return (0);
 }
